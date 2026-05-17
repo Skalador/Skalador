@@ -3,10 +3,10 @@
 - 🔭 Working for [Red Hat](https://www.redhat.com) in Austria
 - 🌱 GitHub statistics
 
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Skalador&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![My GitHub stats](https://github-stats-extended.vercel.app/api?username=Skalador&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 - 📫 Language statistics
 
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Skalador&layout=compact&theme=radical&hide=JavaScript)](https://github.com/anuraghazra/github-readme-stats)
+[![My GitHub Language Stats](https://github-stats-extended.vercel.app/api/top-langs/?username=Skalador&layout=compact&theme=radical&hide=JavaScript)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **Skalador/Skalador** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
